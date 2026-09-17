@@ -5,3 +5,5 @@ model/model_cfg.py
 data/
 *__pycache__*
 archives/
+training/
+.pth
